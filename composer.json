@@ -1,0 +1,11 @@
+{
+    "require": {
+        "smarty/smarty": "~3.1"
+    },
+    "autoload": {
+        "psr-4": {"Theme\\Smarty\\": "wp-content/themes/smarty/functions/"}
+    },
+    "require-dev": {
+        "kint-php/kint": "^3.1"
+    }
+}
