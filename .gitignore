@@ -11,6 +11,7 @@ composer.lock
 /wp-admin
 wp-content/*.*
 wp-content/**/*.*
+wp-content/**/templates_c
 /wp-includes
 /*.php
 /*.html
